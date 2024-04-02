@@ -19,3 +19,5 @@ principe DRY: encourage a éviter la répétition d code dans un programme
   
 A catalog is an XML file that contains a root catalog entry with a list of catalog entries
 
+
+
